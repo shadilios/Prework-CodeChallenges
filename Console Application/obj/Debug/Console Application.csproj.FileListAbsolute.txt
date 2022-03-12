@@ -1,0 +1,7 @@
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\bin\Debug\Console Application.exe.config
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\bin\Debug\Console Application.exe
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\bin\Debug\Console Application.pdb
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.csproj.AssemblyReference.cache
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.csproj.CoreCompileInputs.cache
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.exe
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.pdb
