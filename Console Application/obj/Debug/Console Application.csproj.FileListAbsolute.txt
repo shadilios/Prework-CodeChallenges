@@ -5,3 +5,4 @@ D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console A
 D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.csproj.CoreCompileInputs.cache
 D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.exe
 D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.pdb
+D:\Advanced-repos\Prework-CodeChallenges\Console Application\obj\Debug\Console Application.csproj.SuggestedBindingRedirects.cache
